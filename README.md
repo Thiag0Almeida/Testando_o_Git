@@ -2,6 +2,8 @@
     
 ## Primeiro programa no GitHub 🚩
 
+VAMOS VER SE VAI PEGAR ESSE NEGOCIO
+
 ### Nesse programa fiz o uso de HTML/CSS e JavaScritp. 
 
  Nesse programa que aprendi na "Imersão Dev" do Alura e aperfeiçoei com mais funções. Ultilizei a estrutura de controle 
